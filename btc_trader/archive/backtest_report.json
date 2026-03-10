@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-09 14:35:15",
+  "data_source": "Binance BTCUSDT Spot (1 year, 15M/1H/5M)",
+  "initial_capital": 10000,
+  "without_score": {
+    "use_consensus_score": false,
+    "total_trades": 72,
+    "win_count": 23,
+    "loss_count": 49,
+    "win_rate_pct": 31.94,
+    "avg_win_usdt": 142.7138,
+    "avg_loss_usdt": 106.875,
+    "avg_rr_ratio": 1.335,
+    "profit_factor": 0.627,
+    "total_return_pct": -29.7951,
+    "max_drawdown_pct": -30.653,
+    "avg_hold_minutes": 463.1,
+    "final_capital": 7020.4929,
+    "initial_capital": 10000,
+    "avg_consensus_score": 100.0
+  },
+  "with_score": {
+    "use_consensus_score": true,
+    "total_trades": 0,
+    "win_count": 0,
+    "loss_count": 0,
+    "win_rate_pct": 0,
+    "avg_win_usdt": 0,
+    "avg_loss_usdt": 0,
+    "avg_rr_ratio": 0,
+    "profit_factor": 0,
+    "total_return_pct": 0,
+    "max_drawdown_pct": 0,
+    "avg_hold_minutes": 0,
+    "final_capital": 10000,
+    "initial_capital": 10000,
+    "avg_consensus_score": 0,
+    "message": "无交易记录"
+  },
+  "comparison_text": "===========================================================================\n  Binance BTCUSDT 永续合约 — 共识强度评分模块 回测对比报告\n===========================================================================\n  指标                                  原策略（无评分）           新策略（有评分）           变化\n  ------------------------- ------------------ ------------------ ------------\n  交易次数                                      72                  0     -72.00 ↑\n  胜率 (%)                                 31.94                  0    -31.94% ↓\n  平均盈亏比                                  1.335                  0      -1.33 ↓\n  利润因子                                   0.627                  0      -0.63 ↓\n  总收益率 (%)                            -29.7951                  0    +29.80% ↑\n  最大回撤 (%)                             -30.653                  0    +30.65% ↓\n  平均持仓(分钟)                               463.1                  0            -\n  平均共识评分                                 100.0                  0    -100.00 ↓\n  最终资金 (USDT)                        7020.4929              10000   +2979.51 ↑\n===========================================================================\n  分析结论：\n  ✓ 共识评分过滤减少了 72 笔低质量交易（100.0%）\n  ✓ 最大回撤降低 30.65%\n==========================================================================="
+}

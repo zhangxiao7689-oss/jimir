@@ -1,0 +1,96 @@
+{
+  "90": {
+    "initial_capital": 10000,
+    "final_capital": 9678.5126,
+    "total_candidates_evaluated": 6910,
+    "total_candidates_passed": 32,
+    "pass_rate_pct": 0.46,
+    "avg_consensus_score_passed": 62.08,
+    "total_trades": 11,
+    "win_count": 6,
+    "loss_count": 5,
+    "win_rate_pct": 54.55,
+    "avg_win_usdt": 129.5987,
+    "avg_loss_usdt": 169.5524,
+    "avg_rr_ratio": 0.764,
+    "profit_factor": 0.917,
+    "total_return_pct": -3.2149,
+    "max_drawdown_pct": -8.8209,
+    "avg_hold_minutes": 249.5,
+    "regime_stats": {
+      "uptrend": {
+        "count": 7,
+        "win_rate": 57.1,
+        "profit_factor": 1.525,
+        "avg_rr": 1.144,
+        "total_pnl": 198.37,
+        "avg_hold_h": 4.8
+      },
+      "downtrend": {
+        "count": 0,
+        "win_rate": 0,
+        "profit_factor": 0,
+        "avg_rr": 0,
+        "total_pnl": 0,
+        "avg_hold_h": 0
+      },
+      "ranging": {
+        "count": 4,
+        "win_rate": 50.0,
+        "profit_factor": 0.428,
+        "avg_rr": 0.428,
+        "total_pnl": -268.54,
+        "avg_hold_h": 3.1
+      }
+    },
+    "window_days": 90,
+    "has_real_5m": true
+  },
+  "180": {
+    "initial_capital": 10000,
+    "final_capital": 9792.1628,
+    "total_candidates_evaluated": 10812,
+    "total_candidates_passed": 140,
+    "pass_rate_pct": 1.29,
+    "avg_consensus_score_passed": 63.03,
+    "total_trades": 25,
+    "win_count": 15,
+    "loss_count": 10,
+    "win_rate_pct": 60.0,
+    "avg_win_usdt": 115.183,
+    "avg_loss_usdt": 135.4349,
+    "avg_rr_ratio": 0.85,
+    "profit_factor": 1.276,
+    "total_return_pct": -2.0784,
+    "max_drawdown_pct": -6.4996,
+    "avg_hold_minutes": 588.0,
+    "regime_stats": {
+      "uptrend": {
+        "count": 11,
+        "win_rate": 54.5,
+        "profit_factor": 1.014,
+        "avg_rr": 0.845,
+        "total_pnl": 7.76,
+        "avg_hold_h": 12.9
+      },
+      "downtrend": {
+        "count": 0,
+        "win_rate": 0,
+        "profit_factor": 0,
+        "avg_rr": 0,
+        "total_pnl": 0,
+        "avg_hold_h": 0
+      },
+      "ranging": {
+        "count": 14,
+        "win_rate": 64.3,
+        "profit_factor": 1.466,
+        "avg_rr": 0.814,
+        "total_pnl": 365.63,
+        "avg_hold_h": 7.4
+      }
+    },
+    "window_days": 180,
+    "has_real_5m": true
+  }
+}
